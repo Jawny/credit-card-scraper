@@ -1,0 +1,11 @@
+{
+  "name": "credit-card-scraper",
+  "version": "1.0.0",
+  "description": "scrape credit card data from rates.ca",
+  "main": "index.ts",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^20.1.1"
+  }
+}
