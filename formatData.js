@@ -91,7 +91,44 @@ export const formatData = (fileName) => {
   console.log(`finished formatting ${fileName}`);
 };
 
+const combineData = (file1, file2) => {
+  // write code that combines the two json files into a single json
+
+  fs.readFile(`${file1}.json`, "utf8", (err, data) => {
+    if (err) {
+      console.log("Error reading file:", err);
+      return;
+    }
+
+    const usCardArray = JSON.parse(data);
+
+    fs.readFile(`${file2}.json`, "utf8", (err, data) => {
+      if (err) {
+        console.log("Error reading file:", err);
+        return;
+      }
+
+      const cadCardArray = JSON.parse(data);
+
+      const combinedArray = [...usCardArray, ...cadCardArray];
+
+      fs.writeFile(
+        "combined-result.json",
+        JSON.stringify(combinedArray),
+        (err) => {
+          if (err) {
+            console.log("Error writing file:", err);
+          } else {
+            console.log("Card object has been updated and saved to file");
+          }
+        }
+      );
+    });
+  });
+};
+
 // uncomment to just run reformatter
 
 // formatData("us-result");
 // formatData("cad-result");
+combineData("us-result", "cad-result");

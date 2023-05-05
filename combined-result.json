@@ -1,0 +1,402 @@
+[
+  {
+    "cardName": "AMERICAN EXPRESS US BUSINESS PLATINUM",
+    "cardReward": "Membership Rewards"
+  },
+  { "cardName": "CHASE AEROPLAN", "cardReward": "Aeroplan" },
+  { "cardName": "CHASE BRITISH AIRWAYS", "cardReward": "Avios" },
+  { "cardName": "CHASE AER LINGUS", "cardReward": "Avios" },
+  { "cardName": "CHASE IBERIA", "cardReward": "Avios" },
+  {
+    "cardName": "CHASE INK BUSINESS PREFERRED",
+    "cardReward": "Ultimate Rewards"
+  },
+  {
+    "cardName": "BANK OF AMERICA ALASKA AIRLINES BUSINESS",
+    "cardReward": "Alaska Miles"
+  },
+  {
+    "cardName": "BANK OF AMERICA ALASKA AIRLINES",
+    "cardReward": "Alaska Miles"
+  },
+  {
+    "cardName": "CAPITAL ONE VENTURE REWARDS",
+    "cardReward": "Capital One Rewards"
+  },
+  {
+    "cardName": "CHASE MARRIOTT BONVOY BOUNDLESS",
+    "cardReward": "Marriott Bonvoy"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS US BUSINESS GOLD",
+    "cardReward": "Membership Rewards"
+  },
+  { "cardName": "CITI PREMIER", "cardReward": "ThankYou Points" },
+  {
+    "cardName": "AMERICAN EXPRESS US PERSONAL GOLD",
+    "cardReward": "Membership Rewards"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS US PERSONAL PLATINUM",
+    "cardReward": "Membership Rewards"
+  },
+  {
+    "cardName": "CHASE SOUTHWEST RAPID REWARDS PERFORMANCE BUSINESS",
+    "cardReward": "Rapid Rewards"
+  },
+  {
+    "cardName": "CAPITAL ONE VENTURE X REWARDS",
+    "cardReward": "Capital One Rewards"
+  },
+  { "cardName": "CHASE UNITED BUSINESS", "cardReward": "MileagePlus" },
+  { "cardName": "CHASE SAPPHIRE PREFERRED", "cardReward": "Ultimate Rewards" },
+  {
+    "cardName": "CAPITAL ONE SPARK MILES",
+    "cardReward": "Capital One Rewards"
+  },
+  {
+    "cardName": "CITIBUSINESS / AADVANTAGE PLATINUM SELECT",
+    "cardReward": "AAdvantage"
+  },
+  {
+    "cardName": "CHASE WORLD OF HYATT BUSINESS",
+    "cardReward": "World of Hyatt"
+  },
+  {
+    "cardName": "CHASE SOUTHWEST RAPID REWARDS PREMIER BUSINESS",
+    "cardReward": "Rapid Rewards"
+  },
+  { "cardName": "CHASE UNITED QUEST", "cardReward": "MileagePlus" },
+  { "cardName": "CHASE UNITED EXPLORER", "cardReward": "MileagePlus" },
+  { "cardName": "CHASE UNITED CLUB INFINITE", "cardReward": "MileagePlus" },
+  { "cardName": "CHASE INK BUSINESS UNLIMITED", "cardReward": "Cash back" },
+  { "cardName": "CHASE INK BUSINESS CASH", "cardReward": "Cash back" },
+  {
+    "cardName": "AMERICAN EXPRESS US GREEN",
+    "cardReward": "Membership Rewards"
+  },
+  {
+    "cardName": "CITI / AADVANTAGE PLATINUM SELECT WORLD ELITE",
+    "cardReward": "AAdvantage"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS HILTON HONORS SURPASS",
+    "cardReward": "Hilton Honors"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS HILTON HONORS BUSINESS",
+    "cardReward": "Hilton Honors"
+  },
+  {
+    "cardName": "CHASE SOUTHWEST RAPID REWARDS PLUS",
+    "cardReward": "Rapid Rewards"
+  },
+  {
+    "cardName": "CHASE SOUTHWEST RAPID REWARDS PREMIER",
+    "cardReward": "Rapid Rewards"
+  },
+  {
+    "cardName": "CHASE SOUTHWEST RAPID REWARDS PRIORITY",
+    "cardReward": "Rapid Rewards"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS DELTA SKYMILES GOLD BUSINESS",
+    "cardReward": "SkyMiles"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS US MARRIOTT BONVOY BUSINESS",
+    "cardReward": "Marriott Bonvoy"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS MARRIOTT BONVOY BEVY",
+    "cardReward": "Marriott Bonvoy"
+  },
+  { "cardName": "CAPITAL ONE SPARK CASH SELECT", "cardReward": "Cash back" },
+  {
+    "cardName": "AMERICAN EXPRESS HILTON HONORS",
+    "cardReward": "Hilton Honors"
+  },
+  { "cardName": "CHASE SAPPHIRE RESERVE", "cardReward": "Ultimate Rewards" },
+  {
+    "cardName": "AMERICAN EXPRESS HILTON HONORS ASPIRE",
+    "cardReward": "Hilton Honors"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS DELTA SKYMILES GOLD",
+    "cardReward": "SkyMiles"
+  },
+  {
+    "cardName": "BANK OF AMERICA AMTRAK GUEST REWARDS",
+    "cardReward": "Amtrak Guest Rewards"
+  },
+  { "cardName": "CHASE WORLD OF HYATT", "cardReward": "World of Hyatt" },
+  {
+    "cardName": "AMERICAN EXPRESS DELTA SKYMILES PLATINUM BUSINESS",
+    "cardReward": "SkyMiles"
+  },
+  {
+    "cardName": "BANK OF AMERICA PREMIUM REWARDS",
+    "cardReward": "Premium Rewards"
+  },
+  {
+    "cardName": "BANK OF AMERICA FREE SPIRIT TRAVEL MORE WE",
+    "cardReward": "Premium Rewards"
+  },
+  { "cardName": "CITI REWARDS+", "cardReward": "ThankYou Points" },
+  {
+    "cardName": "CAPITAL ONE VENTUREONE REWARDS",
+    "cardReward": "Capital One Rewards"
+  },
+  {
+    "cardName": "CAPITAL ONE SPARK MILES SELECT",
+    "cardReward": "Capital One Rewards"
+  },
+  { "cardName": "CAPITAL ONE SPARK CASH PLUS", "cardReward": "Cash back" },
+  { "cardName": "CHASE FREEDOM UNLIMITED", "cardReward": "Ultimate Rewards" },
+  { "cardName": "CHASE FREEDOM FLEX", "cardReward": "Ultimate Rewards" },
+  {
+    "cardName": "AMERICAN EXPRESS BLUE BUSINESS PLUS",
+    "cardReward": "Membership Rewards"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS BUSINESS GREEN",
+    "cardReward": "Membership Rewards"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS DELTA SKYMILES PLATINUM",
+    "cardReward": "SkyMiles"
+  },
+  {
+    "cardName": "BANK OF AMERICA BUSINESS ADVANTAGE CUSTOMIZED CASH REWARDS",
+    "cardReward": "Cash back"
+  },
+  {
+    "cardName": "BANK OF AMERICA BUSINESS ADVANTAGE UNLIMITED CASH REWARDS",
+    "cardReward": "Cash back"
+  },
+  {
+    "cardName": "BANK OF AMERICA BUSINESS ADVANTAGE TRAVEL REWARDS",
+    "cardReward": "Premium Rewards"
+  },
+  {
+    "cardName": "BANK OF AMERICA PLATINUM PLUS BUSINESS",
+    "cardReward": "Cash back"
+  },
+  { "cardName": "CHASE MARRIOTT BONVOY BOLD", "cardReward": "Marriott Bonvoy" },
+  {
+    "cardName": "AMERICAN EXPRESS BLUE CASH PREFERRED",
+    "cardReward": "Cash back"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS BLUE CASH EVERYDAY",
+    "cardReward": "Cash back"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS BLUE BUSINESS CASH",
+    "cardReward": "Cash back"
+  },
+  {
+    "cardName": "BANK OF AMERICA TRAVEL REWARDS",
+    "cardReward": "Premium Rewards"
+  },
+  {
+    "cardName": "CITI / AADVANTAGE EXECUTIVE WORLD ELITE",
+    "cardReward": "AAdvantage"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS EVERYDAY PREFERRED",
+    "cardReward": "Membership Rewards"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS EVERYDAY",
+    "cardReward": "Membership Rewards"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS MARRIOTT BONVOY BRILLIANT",
+    "cardReward": "Marriott Bonvoy"
+  },
+  { "cardName": "CAPITAL ONE SAVOR REWARDS", "cardReward": "Cash back" },
+  { "cardName": "AMERICAN EXPRESS CASH MAGNET", "cardReward": "Cash back" },
+  {
+    "cardName": "BANK OF AMERICA CUSTOMIZED CASH REWARDS",
+    "cardReward": "Cash back"
+  },
+  {
+    "cardName": "BANK OF AMERICA UNLIMITED CASH REWARDS",
+    "cardReward": "Cash back"
+  },
+  { "cardName": "CAPITAL ONE SAVORONE REWARDS", "cardReward": "Cash back" },
+  { "cardName": "CAPITAL ONE QUICKSILVER REWARDS", "cardReward": "Cash back" },
+  { "cardName": "CITI / AADVANTAGE MILEUP", "cardReward": "AAdvantage" },
+  {
+    "cardName": "AMERICAN EXPRESS DELTA SKYMILES RESERVE BUSINESS",
+    "cardReward": "SkyMiles"
+  },
+  { "cardName": "BANK OF AMERICA BANKAMERICARD", "cardReward": "Cash back" },
+  { "cardName": "BANK OF AMERICA ALLEGIANT", "cardReward": "Premium Rewards" },
+  { "cardName": "CITI CUSTOM CASH", "cardReward": "ThankYou Points" },
+  {
+    "cardName": "AMERICAN EXPRESS DELTA SKYMILES RESERVE",
+    "cardReward": "SkyMiles"
+  },
+  { "cardName": "CITI DIAMOND PREFERRED", "cardReward": "None" },
+  { "cardName": "CITI COSTCO ANYWHERE VISA", "cardReward": "Cash back" },
+  {
+    "cardName": "CITI COSTCO ANYWHERE VISA BUSINESS",
+    "cardReward": "Cash back"
+  },
+  { "cardName": "CITI DOUBLE CASH", "cardReward": "ThankYou Points" },
+  {
+    "cardName": "CAPITAL ONE QUICKSILVERONE REWARDS",
+    "cardReward": "Cash back"
+  },
+  { "cardName": "AMERICAN EXPRESS PLUM", "cardReward": "Cash back" },
+  {
+    "cardName": "AMERICAN EXPRESS AEROPLAN BUSINESS RESERVE",
+    "cardReward": "Aeroplan"
+  },
+  { "cardName": "AMERICAN EXPRESS AEROPLAN RESERVE", "cardReward": "Aeroplan" },
+  {
+    "cardName": "TD AEROPLAN VISA INFINITE PRIVILEGE",
+    "cardReward": "Aeroplan"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS BUSINESS PLATINUM",
+    "cardReward": "Membership Rewards"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS BUSINESS GOLD",
+    "cardReward": "Membership Rewards"
+  },
+  {
+    "cardName": "CIBC AEROPLAN VISA INFINITE PRIVILEGE",
+    "cardReward": "Aeroplan"
+  },
+  {
+    "cardName": "CIBC AVENTURA VISA INFINITE PRIVILEGE",
+    "cardReward": "Aventura"
+  },
+  { "cardName": "TD AEROPLAN VISA BUSINESS", "cardReward": "Aeroplan" },
+  { "cardName": "TD AEROPLAN VISA INFINITE", "cardReward": "Aeroplan" },
+  { "cardName": "AMERICAN EXPRESS GOLD", "cardReward": "Membership Rewards" },
+  {
+    "cardName": "AMERICAN EXPRESS PLATINUM",
+    "cardReward": "Membership Rewards"
+  },
+  { "cardName": "CIBC AEROPLAN VISA INFINITE", "cardReward": "Aeroplan" },
+  { "cardName": "AMERICAN EXPRESS AEROPLAN", "cardReward": "Aeroplan" },
+  {
+    "cardName": "AMERICAN EXPRESS BUSINESS EDGE",
+    "cardReward": "Membership Rewards"
+  },
+  { "cardName": "CIBC AVENTURA VISA INFINITE", "cardReward": "Aventura" },
+  { "cardName": "CIBC AVENTURA GOLD", "cardReward": "Aventura" },
+  { "cardName": "RBC BRITISH AIRWAYS VISA INFINITE", "cardReward": "Avios" },
+  {
+    "cardName": "TD FIRST CLASS TRAVEL VISA INFINITE",
+    "cardReward": "TD Rewards"
+  },
+  {
+    "cardName": "NATIONAL BANK WORLD ELITE",
+    "cardReward": "À la carte Rewards"
+  },
+  { "cardName": "CIBC AEROPLAN VISA BUSINESS", "cardReward": "Aeroplan" },
+  { "cardName": "CIBC AEROPLAN VISA BUSINESS PLUS", "cardReward": "Aeroplan" },
+  {
+    "cardName": "AMERICAN EXPRESS MARRIOTT BONVOY BUSINESS",
+    "cardReward": "Marriott Bonvoy"
+  },
+  {
+    "cardName": "AMERICAN EXPRESS MARRIOTT BONVOY",
+    "cardReward": "Marriott Bonvoy"
+  },
+  { "cardName": "CIBC AVENTURA VISA BUSINESS", "cardReward": "Aventura" },
+  { "cardName": "CIBC AVENTURA VISA BUSINESS PLUS", "cardReward": "Aventura" },
+  { "cardName": "RBC AVION PLATINUM", "cardReward": "Avion" },
+  { "cardName": "RBC AVION VISA INFINITE", "cardReward": "Avion" },
+  { "cardName": "AMERICAN EXPRESS COBALT", "cardReward": "Membership Rewards" },
+  { "cardName": "BMO WORLD ELITE BUSINESS", "cardReward": "BMO Rewards" },
+  {
+    "cardName": "BMO AIR MILES WORLD ELITE BUSINESS",
+    "cardReward": "AIR MILES"
+  },
+  { "cardName": "TD BUSINESS TRAVEL VISA", "cardReward": "TD Rewards" },
+  { "cardName": "RBC CATHAY PACIFIC PLATINUM", "cardReward": "Asia Miles" },
+  { "cardName": "TD AEROPLAN VISA PLATINUM", "cardReward": "Aeroplan" },
+  { "cardName": "BMO ECLIPSE VISA INFINITE", "cardReward": "BMO Rewards" },
+  { "cardName": "BMO ASCEND WORLD ELITE", "cardReward": "BMO Rewards" },
+  { "cardName": "HSBC WORLD ELITE", "cardReward": "HSBC Rewards" },
+  { "cardName": "RBC WESTJET WORLD ELITE", "cardReward": "WestJet Dollars" },
+  {
+    "cardName": "AMERICAN EXPRESS SIMPLYCASH PREFERRED",
+    "cardReward": "Cash back"
+  },
+  { "cardName": "BMO AIR MILES WORLD ELITE", "cardReward": "AIR MILES" },
+  { "cardName": "RBC AVION VISA INFINITE BUSINESS", "cardReward": "Avion" },
+  { "cardName": "SCOTIABANK GOLD AMERICAN EXPRESS", "cardReward": "Scene+" },
+  { "cardName": "RBC AVION VISA INFINITE PRIVILEGE", "cardReward": "Avion" },
+  { "cardName": "RBC AVION VISA BUSINESS", "cardReward": "Avion" },
+  { "cardName": "BMO CASHBACK WORLD ELITE", "cardReward": "Cash back" },
+  { "cardName": "TD PLATINUM TRAVEL VISA", "cardReward": "TD Rewards" },
+  { "cardName": "AMERICAN EXPRESS GREEN", "cardReward": "Membership Rewards" },
+  {
+    "cardName": "SCOTIABANK PLATINUM AMERICAN EXPRESS",
+    "cardReward": "Scene+"
+  },
+  {
+    "cardName": "SCOTIABANK MOMENTUM VISA INFINITE",
+    "cardReward": "Cash back"
+  },
+  { "cardName": "SCOTIABANK PASSPORT VISA INFINITE", "cardReward": "Scene+" },
+  { "cardName": "TD CASHBACK VISA INFINITE", "cardReward": "Cash back" },
+  { "cardName": "MBNA REWARDS WORLD ELITE", "cardReward": "MBNA Rewards" },
+  { "cardName": "HSBC +REWARDS", "cardReward": "HSBC Rewards" },
+  { "cardName": "BMO CASHBACK BUSINESS", "cardReward": "Cash back" },
+  { "cardName": "BMO AIR MILES NO-FEE BUSINESS", "cardReward": "AIR MILES" },
+  { "cardName": "MBNA BEST WESTERN", "cardReward": "Best Western Rewards" },
+  { "cardName": "BMO CASHBACK", "cardReward": "Cash back" },
+  { "cardName": "HSBC CASH REWARDS", "cardReward": "Cash back" },
+  { "cardName": "HSBC TRAVEL REWARDS", "cardReward": "HSBC Rewards" },
+  { "cardName": "BMO AIR MILES", "cardReward": "AIR MILES" },
+  {
+    "cardName": "BMO ECLIPSE VISA INFINITE PRIVILEGE",
+    "cardReward": "BMO Rewards"
+  },
+  { "cardName": "AMERICAN EXPRESS SIMPLYCASH", "cardReward": "Cash back" },
+  { "cardName": "TANGERINE MONEY-BACK", "cardReward": "Cash back" },
+  { "cardName": "TANGERINE WORLD", "cardReward": "Cash back" },
+  { "cardName": "RBC ION+ VISA", "cardReward": "Avion" },
+  { "cardName": "TD REWARDS VISA", "cardReward": "TD Rewards" },
+  { "cardName": "SCOTIABANK AMERICAN EXPRESS", "cardReward": "Scene+" },
+  { "cardName": "BMO REWARDS", "cardReward": "BMO Rewards" },
+  { "cardName": "RBC ION VISA", "cardReward": "Avion" },
+  { "cardName": "RBC WESTJET", "cardReward": "WestJet Dollars" },
+  { "cardName": "SIMPLII FINANCIAL CASH BACK VISA", "cardReward": "Cash back" },
+  { "cardName": "SCOTIABANK SCENE VISA", "cardReward": "Scene+" },
+  { "cardName": "ROGERS BANK WORLD ELITE", "cardReward": "Cash back" },
+  { "cardName": "CIBC DIVIDEND VISA INFINITE", "cardReward": "Cash back" },
+  { "cardName": "MANULIFEBANK MONEY+ PLATINUM", "cardReward": "Cash back" },
+  {
+    "cardName": "MANULIFEBANK MONEY+ VISA INFINITE",
+    "cardReward": "Cash back"
+  },
+  { "cardName": "NATIONAL BANK WORLD", "cardReward": "À la carte Rewards" },
+  {
+    "cardName": "PRESIDENTS CHOICE FINANCIAL WORLD ELITE",
+    "cardReward": "PC Optimum"
+  },
+  { "cardName": "NEO CREDIT", "cardReward": "Cash back" },
+  {
+    "cardName": "CANADIAN TIRE TRIANGLE WORLD ELITE",
+    "cardReward": "Canadian Tire Money"
+  },
+  { "cardName": "CIBC COSTCO", "cardReward": "Cash back" },
+  { "cardName": "CIBC COSTCO WORLD", "cardReward": "Cash back" },
+  { "cardName": "NEO SECURED CREDIT", "cardReward": "Cash back" },
+  { "cardName": "RBC CASH BACK", "cardReward": "Cash back" },
+  { "cardName": "NATIONAL BANK PLATINUM", "cardReward": "À la carte Rewards" },
+  {
+    "cardName": "RBC CASH BACK PREFERRED WORLD ELITE",
+    "cardReward": "Cash back"
+  }
+]
