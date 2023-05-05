@@ -58,6 +58,40 @@ const containsRewardProgram = (str) => {
   return { res: false, reward: null };
 };
 
+// add value and label prop
+const addValueAndLabel = (fileName) => {
+  fs.readFile(`${fileName}.json`, "utf8", (err, data) => {
+    if (err) {
+      console.log("Error reading file:", err);
+      return;
+    }
+
+    const parsedData = JSON.parse(data);
+
+    const updatedData = parsedData.map((card) => {
+      const { cardName, cardReward } = card;
+      return {
+        cardName,
+        cardReward,
+        value: cardName,
+        label: cardName,
+      };
+    });
+
+    fs.writeFile(
+      `${fileName}-with-values-labels.json`,
+      JSON.stringify(updatedData),
+      (err) => {
+        if (err) {
+          console.log("Error writing file:", err);
+        } else {
+          console.log("Card object has been updated and saved to file");
+        }
+      }
+    );
+  });
+};
+
 export const formatData = (fileName) => {
   fs.readFile(`${fileName}.json`, "utf8", (err, data) => {
     if (err) {
@@ -132,3 +166,4 @@ const combineData = (file1, file2) => {
 // formatData("us-result");
 // formatData("cad-result");
 combineData("us-result", "cad-result");
+// addValueAndLabel("combined-result");
