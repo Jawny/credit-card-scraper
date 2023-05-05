@@ -91,5 +91,7 @@ export const formatData = (fileName) => {
   console.log(`finished formatting ${fileName}`);
 };
 
-formatData("us-result");
-formatData("cad-result");
+// uncomment to just run reformatter
+
+// formatData("us-result");
+// formatData("cad-result");
