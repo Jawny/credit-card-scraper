@@ -69,10 +69,11 @@ const addValueAndLabel = (fileName) => {
     const parsedData = JSON.parse(data);
 
     const updatedData = parsedData.map((card) => {
-      const { cardName, cardReward } = card;
+      const { cardName, cardReward, cardImage } = card;
       return {
         cardName,
         cardReward,
+        cardImage,
         value: cardName,
         label: cardName,
       };
@@ -102,13 +103,13 @@ export const formatData = (fileName) => {
     const cardArray = JSON.parse(data);
 
     const updatedCards = cardArray.map((card) => {
-      const { cardName, cardReward } = card;
+      const { cardName, cardReward, cardImage } = card;
       const { res, reward } = containsRewardProgram(cardReward);
 
       if (res) {
-        return { cardName, cardReward: reward };
+        return { cardName, cardReward: reward, cardImage };
       } else {
-        return { cardName, cardReward: `${cardReward}-UNKNOWN` };
+        return { cardName, cardReward: `${cardReward}-UNKNOWN`, cardImage };
       }
     });
 
@@ -165,5 +166,5 @@ const combineData = (file1, file2) => {
 
 // formatData("us-result");
 // formatData("cad-result");
-combineData("us-result", "cad-result");
+// combineData("us-result", "cad-result");
 // addValueAndLabel("combined-result");
